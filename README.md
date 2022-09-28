@@ -1,4 +1,9 @@
+⚠️ This repository is a fork of the original [lungmask](https://github.com/JoHof/lungmask) repository. Its only purpose is to push the model on PyPi (see [issue #67](https://github.com/JoHof/lungmask/issues/67) on the original repo).
+
 # Automated lung segmentation in CT under presence of severe pathologies
+
+[![PyPI version](https://badge.fury.io/py/lungmask.svg)](https://badge.fury.io/py/lungmask)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 This package provides trained U-net models for lung segmentation. For now, four models are available:
 
